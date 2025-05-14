@@ -1,3 +1,5 @@
+#A Kubernetes Deployment is a resource object that manages the creation and updating of application instances,
+# ensuring that the desired number of Pods are running and healthy.
 apiVersion: apps/v1
 kind: Deployment
 metadata:
