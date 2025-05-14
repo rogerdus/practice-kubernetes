@@ -1,3 +1,5 @@
+#A Kubernetes DaemonSet is a type of API object that ensures a specific Pod runs on all (or a subset of) nodes in a cluster.
+#It is commonly used for tasks like monitoring, logging, and managing storage services across all nodes
 apiVersion: apps/v1
 kind: DaemonSet
 metadata:
